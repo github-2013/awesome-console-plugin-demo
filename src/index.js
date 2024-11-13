@@ -1,0 +1,10 @@
+// console.log("/src/pages/app.tsx          |   6 +-")
+// console.log("src/pages/app.tsx          |   6 +-")
+// console.log("/pages/app.tsx          |   6 +-")
+// console.log("app/pages/app.tsx          |   6 +-")
+
+// console.log(".../src/pages/app.tsx       |  49 ----------")
+// console.log("delete mode 100644 app/pages/app.tsx")
+// console.log("delete mode 100644 app/pages/access-log/app.tsx")
+// console.log("create mode 100644 app/pages/app-modal.tsx")
+// console.log("rename app/pages/{app.tsx => index.tsx} (54%)")
